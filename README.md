@@ -32,5 +32,8 @@ I felt things slowing down and wanted to force myself out of my comfort zone, so
 
 I've since been working on learning the latest web technologies and occasionally working on my personal projects.
 
+#### Fun fact:
+I'm from Austin, Texas (USA), I'm married to a Vietnamese woman from a small town outside of Ho Chi Minh, Vietnam, and we met and live together in Tokyo, Japan.
+
 #### Preferred method of contact:
 Email: samuelfrostcontact@gmail.com
