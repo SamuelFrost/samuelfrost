@@ -1,12 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 Thanks for visiting my github page. I'll be putting some links to my work/portfolio in the near future.
 
-#### What I'm working on:
+### What I'm working on:
 Organizing my projects into a neat portfolio. I'm using this as an opportunity to try out Polymer JS.
 A Ruby on Rails personal project for organizing events heavily utilizing the google calendar api.
 Finding a job doing software development.
 
-#### My professionally viable software skills:
+### My professionally viable software skills:
 I'm most comfortable with centering my projects around Ruby on Rails. I did full stack development with RoR for two jam packed years. As such, I'm pretty comfortable working around database management and understanding networking models as well as version control with git and working in both a waterfall and agile (scrum) team.
 
 I am exploring other backend technologies like making microservices with Go.
@@ -15,10 +15,10 @@ Most of my front end development was vanilla js + goal specific libraries. So I 
 
 It's been a while, but I've also worked with PHP, Python, Pascal, C#.
 
-#### Proficient software skills keyword list:
+### Proficient software skills keyword list:
 Git, Ruby on Rails, JavaScript, HTML, CSS, PHP, C#, Python, Pascal, Linux, AWS, EC2, DynamoDB, MySQL, SQL, PostgreSQL, Groonga, Vagrant (Virtual Machine Box management), Google SketchUp (CAD program), Unity, Polymer, Go
 
-#### About me (expanded):
+### About me (expanded):
 
 I've been coding on and off since I was a child. When I first started it was just using scenario editors in StarCraft and WarCraft 3, my drive to make modifications to existing maps got me to look into how they were working by disecting the scenario logic and adding my own features from the techniques I learned. I gained an interest in Japanese and entrepreneurship and started working towards those. I entered community college at 15 to start taking Japanese. I went ahead and went homeschooled for highschool so I could focus on college courses at 16 which allowed me the freedom to go to Japan and solidify my Japanese skills at 17.
 
@@ -32,8 +32,8 @@ I felt things slowing down and wanted to force myself out of my comfort zone, so
 
 I've since been working on learning the latest web technologies and occasionally working on my personal projects.
 
-#### Fun fact:
+### Fun fact:
 I'm from Austin, Texas (USA), I'm married to a Vietnamese woman from a small town outside of Ho Chi Minh, Vietnam, and we met and live together in Tokyo, Japan.
 
-#### Preferred method of contact:
+### Preferred method of contact:
 Email: samuelfrostcontact@gmail.com
