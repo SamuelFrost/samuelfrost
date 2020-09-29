@@ -39,4 +39,4 @@ I'm from Austin, Texas (USA), I'm married to a Vietnamese woman from a small tow
 Email: samuelfrostcontact@gmail.com
 
 ### Meeting availability (Please send an email to confirm our meeting before planning an event)
-<iframe src="https://calendar.google.com/calendar/embed?src=c_ef6574cpgscfjo9ba21qm0fh70%40group.calendar.google.com&ctz=Asia%2FTokyo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+https://calendar.google.com/calendar/embed?src=c_ef6574cpgscfjo9ba21qm0fh70%40group.calendar.google.com&ctz=Asia%2FTokyo
