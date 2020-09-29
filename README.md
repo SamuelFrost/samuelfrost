@@ -2,9 +2,9 @@
 Thanks for visiting my github page. I'll be putting some links to my work/portfolio in the near future.
 
 ### What I'm working on:
-Organizing my projects into a neat portfolio. I'm using this as an opportunity to try out Polymer JS.
-A Ruby on Rails personal project for organizing events heavily utilizing the google calendar api.
-Finding a job doing software development.
+- Organizing my projects into a neat portfolio. I'm using this as an opportunity to try out Polymer JS.
+- A Ruby on Rails personal project for organizing events heavily utilizing the google calendar api.
+- Finding a job doing software development.
 
 ### My professionally viable software skills:
 I'm most comfortable with centering my projects around Ruby on Rails. I did full stack development with RoR for two jam packed years. As such, I'm pretty comfortable working around database management and understanding networking models as well as version control with git and working in both a waterfall and agile (scrum) team.
@@ -33,7 +33,7 @@ I felt things slowing down and wanted to force myself out of my comfort zone, so
 I've since been working on learning the latest web technologies and occasionally working on my personal projects.
 
 ### Fun fact:
-I'm from Austin, Texas (USA), I'm married to a Vietnamese woman from a small town outside of Ho Chi Minh, Vietnam, and we met and live together in Tokyo, Japan.
+I'm from Austin, Texas (USA). My wife from a small town outside of Ho Chi Minh, Vietnam. And we met and live together in Tokyo, Japan. So we're a tri-cultural family.
 
 ### Preferred method of contact:
 Email: samuelfrostcontact@gmail.com
