@@ -1,8 +1,9 @@
 ## Hi there 👋
-Thanks for visiting my github page. I'll be putting some links to my work/portfolio in the near future.
+Thanks for visiting my github page.
 
 ### What I'm working on:
-- Organizing my projects into a neat portfolio. I'm using this as an opportunity to try out Polymer JS.
+- Organizing my projects into a neat portfolio. I'm using this as an opportunity to try out some of the latest front end development techniques.
+https://samuelfrost.github.io/portfolio/about_portfolio
 - A Ruby on Rails personal project for organizing events heavily utilizing the google calendar api.
 - Finding a job doing software development.
 
