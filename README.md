@@ -22,7 +22,7 @@ It's been a while, but I've also worked with PHP, Python, Pascal, C#. But I'm no
 - Server frameworks: Ruby on Rails, Django, FuelPHP
 - Front end web development: JavaScript, HTML, CSS, Rollup, WebPack, NPM / Node, Polymer, LitHTML / LitElement, Web Components, web workers, Single Page Applications (SPA), Trusted Web Activity (TWA), Progressive Web Applications (PWA)
 - Database Technologies: DynamoDB, MySQL, SQL, PostgreSQL, Groonga
-- Systems and server managment: AWS, Google Cloud Platform, Linux, Windows Subsystem for Linux(WSL), Oracle VM VirtualBox, Vagrant (ruby YAML based Virtual Machine Box management-- similar to kubernetes for VMs)
+- Systems and server managment: AWS, Google Cloud Platform, Linux, Windows Subsystem for Linux(WSL), Oracle VM VirtualBox, Vagrant (ruby YAML based Virtual Machine Box management-- similar to kubernetes for VMs), Git
 - 3d Model handling + game development: Google SketchUp (CAD program), Unity, blender
 - Other backend/scripting: Ruby, PHP, C#, Python, Pascal, GoLang
 ### About me (expanded):
