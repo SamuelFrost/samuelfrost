@@ -3,7 +3,7 @@ Thanks for visiting my github page.
 
 ### What I'm working on:
 - Organizing my projects into a neat portfolio. I'm using this as an opportunity to try out some of the latest front end development techniques.
-https://samuelfrost.github.io/portfolio/about_portfolio
+https://samuelfrost.github.io/portfolio/
 - A Ruby on Rails personal project for organizing events heavily utilizing the google calendar api.
 - Finding a job doing software development.
 
@@ -12,13 +12,19 @@ I'm most comfortable with centering my projects around Ruby on Rails. I did full
 
 I am exploring other backend technologies like making microservices with Go.
 
-Most of my front end development was vanilla js + goal specific libraries. So I haven't spent much time working with front end frameworks, but I've looked into them a lot recently and really love the idea of component centered web development. I've toyed around with making some vanilla JS web components and am now trying out Polymer JS. Additionally Progressive Web Applications have really caught my attention and are making me want to develop.
+I've come to really love the idea of component centered web development. I've toyed around with making some vanilla JS web components and have made my portfolio project with LitElement/LitHTML components as a Progressive Web Application.
 
-It's been a while, but I've also worked with PHP, Python, Pascal, C#.
+I'm exploring my options of running my own servers with docker and kubernetes.
+
+It's been a while, but I've also worked with PHP, Python, Pascal, C#. But I'm not a fan of PHP or Pascal and would prefer to not work with them.
 
 ### Proficient software skills keyword list:
-Git, Ruby on Rails, JavaScript, HTML, CSS, PHP, C#, Python, Pascal, Linux, AWS, EC2, DynamoDB, MySQL, SQL, PostgreSQL, Groonga, Vagrant (Virtual Machine Box management), Google SketchUp (CAD program), Unity, Polymer, Go
-
+- Server frameworks: Ruby on Rails, Django, FuelPHP
+- Front end web development: JavaScript, HTML, CSS, Rollup, WebPack, NPM / Node, Polymer, LitHTML / LitElement, Web Components, web workers, Single Page Applications (SPA), Trusted Web Activity (TWA), Progressive Web Applications (PWA)
+- Database Technologies: DynamoDB, MySQL, SQL, PostgreSQL, Groonga
+- Systems and server managment: AWS, Google Cloud Platform, Linux, Windows Subsystem for Linux(WSL), Oracle VM VirtualBox, Vagrant (ruby YAML based Virtual Machine Box management-- similar to kubernetes for VMs)
+- 3d Model handling + game development: Google SketchUp (CAD program), Unity, blender
+- Other backend/scripting: Ruby, PHP, C#, Python, Pascal, GoLang
 ### About me (expanded):
 
 I've been coding on and off since I was a child. When I first started it was just using scenario editors in StarCraft and WarCraft 3, my drive to make modifications to existing maps got me to look into how they were working by disecting the scenario logic and adding my own features from the techniques I learned. I gained an interest in Japanese and entrepreneurship and started working towards those. I entered community college at 15 to start taking Japanese. I went ahead and went homeschooled for highschool so I could focus on college courses at 16 which allowed me the freedom to go to Japan and solidify my Japanese skills at 17.
