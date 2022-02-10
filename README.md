@@ -2,10 +2,10 @@
 Thanks for visiting my github page.
 
 ### What I'm working on:
-- Organizing my projects into a neat portfolio. I'm using this as an opportunity to try out some of the latest front end development techniques.
+- Working at i3-systems developing MDM solutions. Doing full stack development using Ruby on Rails -- mostly back end in practice.
+- Playing around with making a blog/conglomeration of some projects into a neat portfolio. I'm using this as an opportunity to try out some of the latest front end development techniques.
 https://samuelfrost.github.io/portfolio/
 - A Ruby on Rails personal project for organizing events heavily utilizing the google calendar api.
-- Working at i3-systems doing full stack development using Ruby on Rails.
 
 ### My professionally viable software skills:
 I'm most comfortable with centering my projects around Ruby on Rails. I did full stack development with RoR for two jam packed years. As such, I'm pretty comfortable working around database management and understanding networking models as well as version control with git and working in both a waterfall and agile (scrum) team.
