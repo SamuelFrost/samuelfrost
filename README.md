@@ -1,29 +1,28 @@
 ## Hi there 👋
 Thanks for visiting my github page.
 
-### What I'm working on:
-- Working at i3-systems developing MDM solutions. Doing full stack development using Ruby on Rails -- mostly back end in practice.
-- Playing around with making a blog/conglomeration of some projects into a neat portfolio. I'm using this as an opportunity to try out some of the latest front end development techniques.
-https://samuelfrost.github.io/portfolio/
-- A Ruby on Rails personal project for organizing events heavily utilizing the google calendar api.
+### What I'm working on now:
+- Working at GakkenLeap developing solutions for online studying resources. Doing full stack development using Ruby on Rails -- mostly back end in practice.
 
 ### My professionally viable software skills:
-I'm most comfortable with centering my projects around Ruby on Rails. I did full stack development with RoR for two jam packed years. As such, I'm pretty comfortable working around database management and understanding networking models as well as version control with git and working in both a waterfall and agile (scrum) team.
+I'm most comfortable with centering my projects around Ruby on Rails. I've been doing full stack development with RoR and various tech stacks for 6+ years. As such, I'm pretty comfortable working around any aspect of web development. To be more specific, in regards to system design, I am comfortable with things such as cloud based infrastructure, devOps, and docker, as well as an advanced understanding of git tools/git hygiene. I have a preference to keep things simple and maintainable-- I like to think of most ruby on rails projects as database APIs with some skin and meat, you just need to determine what request actions/headers/parameters mean what with your frontend or internal/external services.
 
-I am exploring other backend technologies like making microservices with Go.
+I enjoy exploring effective ways of augmenting primary services with backend technologies like making microservices with Go-- though I find the overuse/hype can often be problematic for smooth development. In professional work, I've worked with integrating various supporting services written in node, go, and other ruby projects.  
 
-I've come to really love the idea of component centered web development. I've toyed around with making some vanilla JS web components and have made my portfolio project with LitElement/LitHTML components as a Progressive Web Application.
+I've come to really love the idea of component centered web development. I've toyed around with making some vanilla JS web components and have made my portfolio project with LitElement/LitHTML components as a Progressive Web Application. However, I feel that these minimal approaches are typically more appropriate for developing open source assets-- primarily due to the benefit of popular frameworks/design patterns providing a shared knowledge base of how things are typically set up for ease of cooperation between developers. However, similar to the overuse of microservices, while front-end frameworks and such can provide consistent client-end performance and feature rich experiences, it can be burdensome or perform more poorly under some circumstances-- sometimes a partial of prerendered html is all you need.
 
-I'm exploring my options of running my own servers with docker and kubernetes.
+Other stuff:
 
 It's been a while, but I've also worked with PHP, Python, Pascal, C#. But I'm not a fan of PHP or Pascal and would prefer to not work with them.
+
+I've worked in both waterfall and agile (scrum) teams.
 
 ### Proficient software skills keyword list:
 - Server frameworks: Ruby on Rails, Django, FuelPHP
 - Front end web development: JavaScript, HTML, CSS, Rollup, WebPack, NPM / Node, Polymer, LitHTML / LitElement, Web Components, web workers, Single Page Applications (SPA), Trusted Web Activity (TWA), Progressive Web Applications (PWA)
 - Database Technologies: DynamoDB, MySQL, SQL, PostgreSQL, Groonga
-- Systems and server managment: AWS, Google Cloud Platform, Linux, Windows Subsystem for Linux(WSL), Oracle VM VirtualBox, Vagrant (ruby YAML based Virtual Machine Box management-- similar to kubernetes for VMs), Git
-- 3d Model handling + game development: Google SketchUp (CAD program), Unity, blender
+- Systems and server managment: AWS, Google Cloud Platform, Linux, Windows Subsystem for Linux(WSL), Oracle VM VirtualBox, Vagrant (ruby YAML based Virtual Machine Box management-- similar to kubernetes but for VMs), Git
+- 3d Model handling + game development: SketchUp (CAD program), Unity, blender
 - Other backend/scripting: Ruby, PHP, C#, Python, Pascal, GoLang
 ### About me (expanded):
 
@@ -31,16 +30,16 @@ I've been coding on and off since I was a child. When I first started it was jus
 
 After coming back I decided to start my own business. I had been dabbling in making macros for an MMORPG called RuneScape. I decided to make some macros focused on making in game profits at exorbitant rates and selling the in game money at highly competitive market rates through acquaintances and introductions using some clever marketing. It went pretty well, albeit profits were quite insignificant. After a little over a year of this, I decided to shift my focus to University after being accepted to The University of Texas at Austin.
 
-In the interest of having a relaxed college experience focused on socializing and graduating quickly to get into the job market due to family finances, I decided to major in Japanese and minor in business. I had a great 2.5 years there before graduating, but in the end I felt like I should've stretched it out to 4 years by double or triple majoring with Business and Computer Science.
+I am a late (self-)diagnosed autistic/ADHD individual, so in college I found myself focusing on learning the norms of socializing. While at my core I'm probably a bit of a weird-one in the eyes of others, I must say I've adapted to being a mostly normal human pretty well! As far as academic persuits go, I focused on graduating quickly to get into the job market due to family finances; as such I decided to follow lean into the credits I had earned through early college and major in Japanese and minor in business. I had a great 2.5 years there before graduating. After the fact I felt like I should've stretched it out to 4 years by double or triple majoring with Business and Computer Science.
 
 After university I worked at a couple non programming positions including game support, baking, and doing some real estate investments/development with my brother. All the while I was dabbling in programming, experimenting with pyhton, ruby, and c# through Unity.
 
-I felt things slowing down and wanted to force myself out of my comfort zone, so I decided to make the move to Japan and start looking for a software development position. After a couple months I found one at a smaller company. I started on a small project with php using the fuelphp framework and a lamp stack. I moved on to Ruby on Rails after 3 months and developed a larger application with RoR for two years while doing various company side projects on top of full time development. Ultimately I felt like my efforts weren't being rewarded or recognized and it was making me burn out. This, along with a management decision to not go remote amidst Covid-19 drove me to make the decision to quit.
+I felt things slowing down and wanted to force myself out of my comfort zone, so in 2018 I decided to make the move to Japan and start looking for a software development position. After a couple months I found one at a smaller company. I started on a small project with php using the fuelphp framework and a lamp stack. I moved on to Ruby on Rails after 3 months and developed a larger application with RoR for two years while doing various company side projects on top of full time development. Ultimately I felt like my efforts weren't being rewarded or recognized and it was making me burn out. This, along with a management decision to not go remote amidst Covid-19 drove me to make the decision to quit.
 
 I've since been working on learning the latest web technologies and occasionally working on my personal projects.
 
 ### Fun fact:
-I'm from Austin, Texas (USA). My wife from a small town outside of Ho Chi Minh, Vietnam. And we met and live together in Tokyo, Japan. So we're a tri-cultural family.
+I'm from Austin, Texas (USA). My wife from a small town outside of Ho Chi Minh, Vietnam. And we met and live together in Tokyo, Japan.
 
 ### Preferred method of contact:
 Email: samuelfrostcontact@gmail.com
