@@ -19,9 +19,9 @@ I've worked in both waterfall and agile (scrum) teams.
 
 ### Proficient software skills keyword list:
 - Server frameworks: Ruby on Rails, Django, FuelPHP
-- Front end web development: JavaScript, HTML, CSS, Rollup, WebPack, NPM / Node, Polymer, LitHTML / LitElement, Web Components, web workers, Single Page Applications (SPA), Trusted Web Activity (TWA), Progressive Web Applications (PWA)
+- Front end web development: JavaScript, HTML, CSS, Rollup, WebPack, NPM / Node, Polymer, LitHTML / LitElement, Web Components, web workers, Single Page Applications (SPA), Trusted Web Activity (TWA), Progressive Web Applications (PWA), hotwired/stimulus
 - Database Technologies: DynamoDB, MySQL, SQL, PostgreSQL, Groonga
-- Systems and server managment: AWS, Google Cloud Platform, Linux, Windows Subsystem for Linux(WSL), Oracle VM VirtualBox, Vagrant (ruby YAML based Virtual Machine Box management-- similar to kubernetes but for VMs), Git
+- Systems and server managment: Docker, AWS, Google Cloud Platform, Linux, Windows Subsystem for Linux(WSL), Oracle VM VirtualBox, Vagrant (ruby YAML based Virtual Machine Box management-- similar to kubernetes but for VMs), Git
 - 3d Model handling + game development: SketchUp (CAD program), Unity, blender
 - Other backend/scripting: Ruby, PHP, C#, Python, Pascal, GoLang
 ### About me (expanded):
@@ -34,15 +34,15 @@ I am a late diagnosed autistic/ADHD individual, so at university I found myself 
 
 After university I worked at a couple non programming positions including game support, baking, and doing some real estate investments/development with my brother. All the while I was dabbling in programming, experimenting with pyhton, ruby, and c# through Unity.
 
-I felt things slowing down and wanted to force myself out of my comfort zone, so in 2018 I decided to make the move to Japan and start looking for a software development position. After a couple months I found one at a smaller company. I started on a small project with php using the fuelphp framework and a lamp stack. I moved on to Ruby on Rails after 3 months and developed a larger application with RoR for two years while doing various company side projects on top of full time development. Ultimately I felt like my efforts weren't being rewarded or recognized and it was making me burn out. This, along with a management decision to not go remote amidst Covid-19 drove me to make the decision to quit.
+I felt things slowing down and wanted to force myself out of my comfort zone, so in 2018 I decided to make the move to Japan and start looking for a software development position. After a couple months I found one at a smaller company. I started on a small project with php using the fuelphp framework and a lamp stack. I moved on within the company to work on a Ruby on Rails after a few months. Excluding personal projects, I have worked on a total of 3 Ruby on Rails centered projects in a professional capacity, each with varying system architectures and industries.
 
-I've since been working on learning the latest web technologies and occasionally working on my personal projects.
+I like the idea of continuing to work on and around Ruby on Rails, front-end or DevOps. Ideally I want to continue to spend most of my time living in Japan, but economic forces make me open to the practical choice of spending a few years in a more economically advanced country.
 
 ### Fun fact:
 I'm from Austin, Texas (USA). My wife from a small town outside of Ho Chi Minh, Vietnam. And we met and live together in Tokyo, Japan.
 
 ### Preferred method of contact:
-Email: samuelfrostcontact@gmail.com
+Email: samuelfrostcontact+github@gmail.com
 
-### Meeting availability (Please send an email to confirm our meeting before planning an event)
+### Meeting availability (Please correspond via email before planning a meeting)
 https://calendar.google.com/calendar/embed?src=c_ef6574cpgscfjo9ba21qm0fh70%40group.calendar.google.com&ctz=Asia%2FTokyo
