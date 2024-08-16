@@ -2,7 +2,7 @@
 Thanks for visiting my github page.
 
 ### What I'm working on now:
-- Working at GakkenLeap developing solutions for online studying resources. Doing full stack development using Ruby on Rails -- mostly back end in practice.
+- Working at SmartHR
 
 ### My professionally viable software skills:
 I'm most comfortable with centering my projects around Ruby on Rails. I've been doing full stack development with RoR and various tech stacks for 6+ years. As such, I'm pretty comfortable working around any aspect of web development from design to implementation. In regards to system design, I am comfortable with things such as cloud based infrastructure, devOps, and docker, as well as solid understanding of git tools/git hygiene. For implementations I have a preference to keep things simple and maintainable-- I like to think of most ruby on rails projects as database APIs with some skin and meat, you just need to determine what request actions/headers/parameters mean what with your frontend or internal/external services.
