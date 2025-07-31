@@ -4,6 +4,7 @@ Thanks for visiting my github page.
 ### What I'm working on now:
 - Working on a supply chain management system with 株式会社Goals. 
 - Sort of working on a couple personal business projects, but honestly not putting a lot of time into them-- only sporadically. One is software based and another is materials science related.
+- Thinking about the ideal way to simplify the relationship between front end and back end. If I were to give a name to the design pattern I'd call it a synchronized resource single page application.
 
 ### My professionally viable software skills:
 I'm most comfortable with centering my projects around Ruby on Rails. I've been doing full stack development with RoR and various tech stacks for 7+ years. As such, I'm pretty comfortable working around any aspect of web development from design to implementation. In regards to system design, I am comfortable with things such as cloud based infrastructure, devOps, and docker, as well as solid understanding of git tools/git hygiene. For implementations I have a preference to keep things simple and maintainable-- I like to think of most ruby on rails projects as database APIs with some skin and meat, you just need to determine what request actions/headers/parameters mean what with your frontend or internal/external services.
