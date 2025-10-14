@@ -14,7 +14,7 @@ I've come to really love the idea of component centered web development. I've to
 
 Other stuff:
 
-It's been a while, but I've also worked with PHP, Python, Pascal, C#. But I'm not a fan of PHP or Pascal and would prefer to not work with them.
+It's been a while, but I've also worked with PHP, Python, Pascal, C#.
 
 I've worked in both waterfall and agile (scrum) teams.
 
