@@ -2,7 +2,6 @@
 Thanks for visiting my github page.
 
 ### What I'm working on now:
-- Working on a supply chain management system with 株式会社Goals. 
 - Sort of working on a couple personal business projects, but honestly not putting a lot of time into them-- only sporadically. One is software based and another is materials science related.
 - Thinking about the ideal way to simplify the relationship between front end and back end. If I were to give a name to the design pattern I'd call it a synchronized resource single page application.
 
@@ -32,7 +31,7 @@ I've been coding on and off since I was a child. When I first started it was jus
 
 After coming back I decided to start my own business. I had been dabbling in making macros for an MMORPG called RuneScape. I decided to make some macros focused on making in game profits at exorbitant rates and selling the in game money at highly competitive market rates through acquaintances and introductions using some clever marketing. It went pretty well, albeit profits were quite insignificant. After a little over a year of this, I decided to shift my focus to University after being accepted to The University of Texas at Austin.
 
-I am a late diagnosed autistic/ADHD individual, so at university I found myself focusing on learning the norms of socializing as a bit of a social butterfly. While at my core I'm probably a bit of a weird-one in the eyes of others, I must say I've adapted to being a mostly normal human pretty well! As far as academic persuits go, I focused on graduating quickly to get into the job market due to family finances; as such I decided to lean into the credits I had earned through early college courses by majoring in Japanese and minoring in business. I had a great 2.5 years there before graduating with my bachelor's degree. After the fact I felt like I should've stretched it out to 4 years by double or triple majoring with Business and Computer Science.
+I am a late diagnosed autistic/ADHD individual, so at university I found myself focusing on learning the norms of socializing as a bit of a social butterfly. While at my core I'm probably a bit of a weird-one in the eyes of others, I must say I've adapted to being a mostly normal human pretty well! As far as academic persuits go, while working jobs through college I focused on graduating quickly to get a proper job as early as possible due to family finances; as such I decided to lean into the credits I had earned through early college courses by majoring in Japanese and minoring in business. I had a great 2.5 years there before graduating with my bachelor's degree. After the fact I felt like I should've stretched it out to 4 years by double or triple majoring with Business and Computer Science.
 
 After university I worked at a couple non programming positions including game support, baking, and doing some real estate investments/development with my brother. All the while I was dabbling in programming, experimenting with pyhton, ruby, and c# through Unity.
 
