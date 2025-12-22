@@ -40,7 +40,7 @@ I felt things slowing down and wanted to force myself out of my comfort zone, so
 I like the idea of continuing to work on and around Ruby on Rails, front-end or DevOps. Ideally I want to continue to spend most of my time living in Japan, but economic forces make me open to the practical choice of spending a few years in a more economically advanced country.
 
 ### Fun fact:
-I'm from Austin, Texas (USA). My wife from a small town outside of Ho Chi Minh, Vietnam. And we met and live together in Tokyo, Japan.
+I'm from Austin, Texas (USA). My wife from a small town outside of Ho Chi Minh, Vietnam. We met in Tokyo and live together in Yokohama, Japan. The variety of culture brings a lot of spice to life.
 
 ### Preferred method of contact:
 Email: samuelfrostcontact+github@gmail.com
