@@ -5,6 +5,26 @@ Thanks for visiting my github page.
 - Sort of working on a couple personal business projects, but honestly not putting a lot of time into them-- only sporadically. One is software based and another is materials science related.
 - Thinking about the ideal way to simplify the relationship between front end and back end. If I were to give a name to the design pattern I'd call it a synchronized resource single page application.
 
+### Past projects
+
+E-nexty - a website for planning and ordering parts for electronic engineers. Operated by Nexty electronics, member of Toyota Tsusho Group.
+https://e-nexty.dxp.nexty-ele.com/en/static/articles/about
+
+Clomo MDM - cross platform (iOS, Mac, Windows, Android) mobile device management system. Operated by i-cubed systems.
+https://www.clomo.com/
+
+Shikaku Pass / Gakken leap - Online learning platform for certification exam preperations. Operated by Gakken LEAP, member of Gakken Group.
+https://gakken-leap.co.jp/
+
+SmartHR (サーベイと組織図) - Human Resource survey and organizational management services. Operated by SmartHR.
+https://smarthr.jp/about/feature/
+https://smarthr.jp/database/function/organization/
+https://smarthr.jp/talent-management/function/survey/
+
+HANZO 原価分析 - Automated restaraunt business supply chain management real data analytics service. Operated by Goals inc.  
+https://hanzo.goals.co.jp/food_cost
+
+
 ### My professionally viable software skills:
 I'm most comfortable with centering my projects around Ruby on Rails. I've been doing full stack development with RoR and various tech stacks for 7+ years. As such, I'm pretty comfortable working around any aspect of web development from design to implementation. In regards to system design, I am comfortable with things such as cloud based infrastructure, devOps, and docker, as well as solid understanding of git tools/git hygiene. For implementations I have a preference to keep things simple and maintainable-- I like to think of most ruby on rails projects as database APIs with some skin and meat, you just need to determine what request actions/headers/parameters mean what with your frontend or internal/external services. I also have strong feelings about keeping projects portable and avoiding convoluted development setups-- currently have a love/hate relationship with devcontainers (hate the syntax/documentation, love the philosophy/concept).
 
@@ -35,9 +55,9 @@ I am a late diagnosed autistic/ADHD individual, so at university I found myself 
 
 After university I worked at a couple non programming positions including game support, baking, and doing some real estate investments/development with my brother. All the while I was dabbling in programming, experimenting with pyhton, ruby, and c# through Unity.
 
-I felt things slowing down and wanted to force myself out of my comfort zone, so in 2018 I decided to make the move to Japan and start looking for a software development position. After a couple months I found one at a smaller company. I started to work on a Ruby on Rails after a few months. Since then I've been working around ruby on rails. Excluding personal projects, I have worked on a total of 4 Ruby on Rails centered projects/systems in a professional capacity over 7 years, each with varying system architectures and industries.
+I felt things slowing down and wanted to force myself out of my comfort zone, so in 2018 I decided to make the move to Japan and start looking for a software development position. After a couple months I found one at a smaller company. I started to work on a Ruby on Rails after a few months. Since then I've been working around ruby on rails. Excluding personal projects, I have worked on a total of 5 Ruby on Rails centered projects/systems in a professional capacity over 8 years, each with varying system architectures and industries.
 
-I like the idea of continuing to work on and around Ruby on Rails, front-end or DevOps. Ideally I want to continue to spend most of my time living in Japan, but economic forces make me open to the practical choice of spending a few years in a more economically advanced country.
+I like the idea of continuing to work on and around Ruby on Rails, front-end and DevOps. Ideally I want to continue to spend most of my time living in Japan, but economic forces make me open to the practical choice of spending a few years in a more economically advanced country.
 
 ### Fun fact:
 I'm from Austin, Texas (USA). My wife from a small town outside of Ho Chi Minh, Vietnam. We met in Tokyo and live together in Yokohama, Japan. The variety of culture brings a lot of spice to life.
