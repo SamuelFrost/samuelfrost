@@ -66,4 +66,4 @@ I'm from Austin, Texas (USA). My wife from a small town outside of Ho Chi Minh, 
 Email: samuelfrostcontact+github@gmail.com
 
 ### Meeting availability (Please correspond via email before planning a meeting)
-https://calendar.google.com/calendar/embed?src=c_ef6574cpgscfjo9ba21qm0fh70%40group.calendar.google.com&ctz=Asia%2FTokyo
+https://calendar.app.google/Zjqchgsba2uYFxMP9
