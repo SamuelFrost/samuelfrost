@@ -21,7 +21,7 @@ https://smarthr.jp/about/feature/
 https://smarthr.jp/database/function/organization/
 https://smarthr.jp/talent-management/function/survey/
 
-HANZO 原価分析 - Automated restaraunt business supply chain management real data analytics service. Operated by Goals inc.  
+HANZO 原価分析 - Automated restaraunt business supply chain management project's real inventory and data analytics service. Operated by Goals inc.  
 https://hanzo.goals.co.jp/food_cost
 
 
