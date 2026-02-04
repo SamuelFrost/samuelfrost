@@ -13,7 +13,7 @@ https://e-nexty.dxp.nexty-ele.com/en/static/articles/about
 Clomo MDM - cross platform (iOS, Mac, Windows, Android) mobile device management system. Operated by i-cubed systems.
 https://www.clomo.com/
 
-Shikaku Pass / Gakken leap - Online learning platform for certification exam preperations. Operated by Gakken LEAP, member of Gakken Group.
+Shikaku Pass / Gakken leap - Online learning platform for certification exam preparations. Operated by Gakken LEAP, member of Gakken Group.
 https://gakken-leap.co.jp/
 
 SmartHR (サーベイと組織図) - Human Resource survey and organizational management services. Operated by SmartHR.
