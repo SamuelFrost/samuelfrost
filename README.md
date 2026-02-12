@@ -3,7 +3,7 @@ Thanks for visiting my github page.
 
 ### What I'm working on now:
 - Sort of working on a couple personal business projects, but honestly not putting a lot of time into them-- only sporadically. One is software based and another is materials science related.
-- Thinking about the ideal way to simplify the relationship between front end and back end. If I were to give a name to the design pattern I'd call it a synchronized resource single page application.
+- Thinking about the ideal way to simplify the relationship between front end and back end.
 
 ### Past projects
 
@@ -24,6 +24,8 @@ https://smarthr.jp/talent-management/function/survey/
 HANZO 原価分析 - Automated restaurant business supply chain management project's real inventory and data analytics service. Operated by Goals inc.  
 https://hanzo.goals.co.jp/food_cost
 
+Recent backend focused take home interview project code / work sample
+[https://github.com/SamuelFrost/tripla-interview-takehome-assignment](https://github.com/SamuelFrost/tripla-interview-takehome-assignment/pulls?q=is%3Apr+is%3Aclosed)
 
 ### My professionally viable software skills:
 I'm most comfortable with centering my projects around Ruby on Rails. I've been doing full stack development with RoR and various tech stacks for 8+ years. As such, I'm pretty comfortable working around any aspect of web development from design to implementation. In regards to system design, I am comfortable with things such as cloud based infrastructure, devOps, and docker, as well as solid understanding of git tools/git hygiene. For implementations I have a preference to keep things simple and maintainable-- I like to follow the Rails way for design patterns and use existing gems and tools to solve problems rather than reinventing the wheel. I also have strong feelings about keeping projects portable and avoiding convoluted development setups-- currently have a love/hate relationship with devcontainers (hate the syntax/documentation, love the philosophy/concept).
