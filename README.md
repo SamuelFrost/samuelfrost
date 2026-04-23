@@ -1,10 +1,6 @@
 ## Hi there 👋
 Thanks for visiting my github page.
 
-### What I'm working on now:
-- Sort of working on a couple personal business projects, but honestly not putting a lot of time into them-- only sporadically. One is software based and another is materials science related.
-- Thinking about the ideal way to simplify the relationship between front end and back end.
-
 ### Past projects
 
 E-nexty - a website for planning and ordering parts for electronic engineers. Operated by Nexty electronics, member of Toyota Tsusho Group.
