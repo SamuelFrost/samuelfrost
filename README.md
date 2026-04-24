@@ -60,7 +60,7 @@ After university I worked at a couple non programming positions including game s
 
 I felt things slowing down and wanted to force myself out of my comfort zone, so in 2018 I decided to make the move to Japan and start looking for a software development position. After a couple months I found one at a smaller company. I started to work on a Ruby on Rails and have since been working with and around ruby on rails on practically all my projects. Excluding personal projects, I have worked on a total of 5 Ruby on Rails centered projects/systems in a professional capacity over 8 years, each with varying system architectures and industries.
 
-I like the idea of continuing to work on and around Ruby on Rails, front-end, Developer Experience and DevOps. Ideally I want to continue to spend most of my time living in Japan, but economic forces do make me open to the practical choice of spending a few years in a more economically advanced country.
+I like the idea of continuing to work on and around Ruby on Rails doing full stack development, including front-end and back-end development as well as improving developer experience and DevOps. Ideally I want to continue to spend most of my time living in Japan, but economic forces do make me open to the practical choice of spending a few years in a more economically advanced country.
 
 ### Fun fact:
 I'm from Austin, Texas (USA). My wife from a small town outside of Ho Chi Minh, Vietnam. We met in Tokyo and live together in Yokohama, Japan. The variety of culture brings a lot of spice to life.
