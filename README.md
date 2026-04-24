@@ -1,6 +1,11 @@
 ## Hi there 👋
 Thanks for visiting my github page.
 
+### Current occupations
+- Making a calendar related application
+- Assisting with US-based and other international English-speaking companies looking to hire high quality software engineers from Japan
+- Managing real estate assets in Japan
+
 ### Past projects
 
 E-nexty - a website for planning and ordering parts for electronic engineers. Operated by Nexty electronics, member of Toyota Tsusho Group.
@@ -49,13 +54,13 @@ I've been coding on and off since I was a child. When I first started it was jus
 
 After coming back I decided to start my own business. I had been dabbling in making macros for an MMORPG called RuneScape. I decided to make some macros focused on making in game profits at exorbitant rates and selling the in game money at highly competitive market rates through acquaintances and introductions using some clever marketing. It went pretty well, albeit total profits were quite insignificant. After around a year of this, I decided to shift my focus to University after being accepted to The University of Texas at Austin.
 
-I am a late diagnosed autistic individual, so at university I found myself focusing on learning the norms of socializing as a bit of a social butterfly. While at my core I'm probably a bit of a weird-one in the eyes of others, I must say I've adapted to being a mostly normal human pretty well! As far as academic persuits go, while working jobs through college I focused on graduating quickly to get a proper job as early as possible due to family finances; as such I decided to lean into the credits I had earned through early college courses by majoring in Japanese and minoring in business. I had a great 2.5 years there before graduating with my bachelor's degree. After the fact I felt like I should've stretched it out to a more typical 4 years by double or triple majoring with Business and Computer Science.
+Before transferring to a 4 year university, I had been quite reserved, so when I transferred I found myself really focusing on opening up to socializing as a bit of a social butterfly. While at my core I'm probably a bit of a weird-one in the eyes of others, I must say I've adapted to being a mostly normal human pretty well! As far as academic persuits go, while working jobs through college I focused on graduating quickly to get a proper job as early as possible due to family finances; as such I decided to lean into the credits I had earned through early college courses by majoring in Japanese and minoring in business. I had a great 2.5 years there before graduating with my bachelor's degree. After the fact I felt like I should've stretched it out to a more typical 4 years by double or triple majoring with Business and Computer Science.
 
 After university I worked at a couple non programming positions including game support, baking, and doing some real estate investments/development with my brother. All the while I was dabbling in programming, experimenting with pyhton, ruby, and c# through Unity.
 
-I felt things slowing down and wanted to force myself out of my comfort zone, so in 2018 I decided to make the move to Japan and start looking for a software development position. After a couple months I found one at a smaller company. I started to work on a Ruby on Rails after a few months. Since then I've been working around ruby on rails. Excluding personal projects, I have worked on a total of 5 Ruby on Rails centered projects/systems in a professional capacity over 8 years, each with varying system architectures and industries.
+I felt things slowing down and wanted to force myself out of my comfort zone, so in 2018 I decided to make the move to Japan and start looking for a software development position. After a couple months I found one at a smaller company. I started to work on a Ruby on Rails and have since been working with and around ruby on rails on practically all my projects. Excluding personal projects, I have worked on a total of 5 Ruby on Rails centered projects/systems in a professional capacity over 8 years, each with varying system architectures and industries.
 
-I like the idea of continuing to work on and around Ruby on Rails, front-end and DevOps. Ideally I want to continue to spend most of my time living in Japan, but economic forces make me open to the practical choice of spending a few years in a more economically advanced country.
+I like the idea of continuing to work on and around Ruby on Rails, front-end, Developer Experience and DevOps. Ideally I want to continue to spend most of my time living in Japan, but economic forces do make me open to the practical choice of spending a few years in a more economically advanced country.
 
 ### Fun fact:
 I'm from Austin, Texas (USA). My wife from a small town outside of Ho Chi Minh, Vietnam. We met in Tokyo and live together in Yokohama, Japan. The variety of culture brings a lot of spice to life.
