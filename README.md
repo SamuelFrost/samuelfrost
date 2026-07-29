@@ -2,6 +2,8 @@
 Thanks for visiting my github page.
 
 ### Current occupations
+- Working for R-Unit on a Japanese staffing/shift management application. (primary)
+- Maintaining [Super Projects](https://github.com/SamuelFrost/super_projects)
 - Making a calendar related application
 - Assisting with US-based and other international English-speaking companies looking to hire high quality software engineers from Japan
 - Managing real estate assets in Japan
