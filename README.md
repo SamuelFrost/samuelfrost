@@ -2,7 +2,6 @@
 Thanks for visiting my github page.
 
 ### Current occupations
-- Working for R-Unit on a Japanese staffing/shift management application. (primary)
 - Maintaining [Super Projects](https://github.com/SamuelFrost/super_projects)
 - Making a calendar related application
 - Assisting with US-based and other international English-speaking companies looking to hire high quality software engineers from Japan
@@ -27,6 +26,8 @@ https://smarthr.jp/talent-management/function/survey/
 HANZO 原価分析 - Automated restaurant business supply chain management project's real inventory and data analytics service. Operated by Goals inc.  
 https://hanzo.goals.co.jp/food_cost
 
+Shift management system (anonymous client) - Worked with R-Unit to deliver a staffing/shift management application for a Japanese company.
+
 Recent backend focused take home interview project code / work sample
 [https://github.com/SamuelFrost/tripla-interview-takehome-assignment](https://github.com/SamuelFrost/tripla-interview-takehome-assignment/pulls?q=is%3Apr+is%3Aclosed)
 
@@ -44,8 +45,8 @@ It's been a while, but I've also worked with PHP, Python, Pascal, C#.
 I've worked in both waterfall and agile (scrum) teams.
 
 ### Proficient software skills keyword list:
-- Server frameworks: Ruby on Rails, Django, FuelPHP
-- Front end web development: JavaScript, HTML, CSS, Rollup, WebPack, NPM / Node, Polymer, LitHTML / LitElement, Web Components, web workers, Single Page Applications (SPA), Trusted Web Activity (TWA), Progressive Web Applications (PWA), hotwired/stimulus
+- Server frameworks: Ruby on Rails, Django, FuelPHP, Nest.js
+- Front end web development: JavaScript, HTML, CSS, Rollup, WebPack, NPM, Polymer, LitHTML / LitElement, Web Components, web workers, Single Page Applications (SPA), Trusted Web Activity (TWA), Progressive Web Applications (PWA), hotwired/stimulus
 - Database Technologies: DynamoDB, MySQL, SQL, PostgreSQL, Groonga
 - Systems and server managment: Docker, AWS, Google Cloud Platform, Linux, Windows Subsystem for Linux(WSL), Oracle VM VirtualBox, Vagrant (ruby YAML based Virtual Machine Box management-- similar to kubernetes but for VMs), Git
 - 3d Model handling + game development: SketchUp (CAD program), Unity, blender
