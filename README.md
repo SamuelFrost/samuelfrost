@@ -7,7 +7,7 @@ Thanks for visiting my github page.
 - Assisting with US-based and other international English-speaking companies looking to hire high quality software engineers from Japan
 - Managing real estate assets in Japan
 
-### Past projects
+### Past professional projects/companies
 
 E-nexty - a website for planning and ordering parts for electronic engineers. Operated by Nexty electronics, member of Toyota Tsusho Group.
 https://e-nexty.dxp.nexty-ele.com/en/static/articles/about
@@ -28,7 +28,7 @@ https://hanzo.goals.co.jp/food_cost
 
 Shift management system (anonymous client) - Worked with R-Unit to deliver a staffing/shift management application for a Japanese company.
 
-Recent backend focused take home interview project code / work sample
+#### Recent backend focused take home interview project code / No-AI work sample
 [https://github.com/SamuelFrost/tripla-interview-takehome-assignment](https://github.com/SamuelFrost/tripla-interview-takehome-assignment/pulls?q=is%3Apr+is%3Aclosed)
 
 ### My professionally viable software skills:
