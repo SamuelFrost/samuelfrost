@@ -2,7 +2,7 @@
 Thanks for visiting my github page.
 
 ### Current occupations
-- Maintaining [Super Projects](https://github.com/SamuelFrost/super_projects)
+- Creating/Maintaining [Super Projects](https://github.com/SamuelFrost/super_projects) (this is awesome, check it out)
 - Making a calendar related application
 - Assisting with US-based and other international English-speaking companies looking to hire high quality software engineers from Japan
 - Managing real estate assets in Japan
