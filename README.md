@@ -26,7 +26,7 @@ https://smarthr.jp/talent-management/function/survey/
 HANZO 原価分析 - Automated restaurant business supply chain management project's real inventory and data analytics service. Operated by Goals inc.  
 https://hanzo.goals.co.jp/food_cost
 
-Shift management system (anonymous client) - Worked with R-Unit to deliver a staffing/shift management application for a Japanese company.
+Shift management system (anonymous end-client) - Worked with R-Unit to deliver a staffing/shift management application for a Japanese company.
 
 #### Recent backend focused take home interview project code / No-AI work sample
 [https://github.com/SamuelFrost/tripla-interview-takehome-assignment](https://github.com/SamuelFrost/tripla-interview-takehome-assignment/pulls?q=is%3Apr+is%3Aclosed)
